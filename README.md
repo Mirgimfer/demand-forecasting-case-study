@@ -1,4 +1,4 @@
-# Predicción de Demanda de Productos Agroquímicos
+# Previsión de demanda con series temporales 
 
 Sistema de predicción de demanda para un catálogo de productos agroquímicos,
 desarrollado como proyecto de ciencia de datos aplicada. Mi objetivo era
@@ -6,8 +6,6 @@ pronosticar la demanda mensual de cientos de series de producto y evaluar
 qué técnicas de modelado funcionan mejor según el patrón de comportamiento
 de cada serie.
 
-Resumen metodológico de un sistema *end-to-end* de previsión de demanda 
-desarrollado durante mis prácticas en el departamento de Innovación de Sothis.
  
 > **Nota de confidencialidad.** Este proyecto se realizó en un entorno empresarial.
 > Por acuerdo de confidencialidad **no se incluyen datos, código ni información del cliente**.
